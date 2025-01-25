@@ -1,0 +1,22 @@
+body {
+    background-color: #000000;
+    /* overflow: hidden; */
+}
+
+.navbar .btn:hover {
+    background-color: #35A29F; /* Search icon hover color */
+}
+
+.text-center {
+    margin-top: -50px; 
+}
+
+.container {
+    margin-top: -30px; 
+}
+.custom-card-body {
+    padding: 30px; 
+}
+.mb-3:hover{
+    background-color: #35A29F; 
+}
